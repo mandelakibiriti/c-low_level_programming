@@ -3,15 +3,15 @@ C is a general-purpose procedural programming language that provides low-level a
 
 |Table Contents|
 |-----------------------------------------------------------------------------------|
-|1. [Malloc](../alx-low_level_programming/0x0B-malloc_free/README.md)| 
-|2. [Pointers](../alx-low_level_programming/0x05-pointers_arrays_strings/README.md)|
-|3. [Function Pointers](../alx-low_level_programming/0x0F-function_pointers/README.md)|
-|4. [Static Libraries](../alx-low_level_programming/0x09-static_libraries/README.md)|
-|5. [Command Line Arguments](../alx-low_level_programming/0x0A-argc_argv/README.md)|
-|6. [C Preprocessor](../alx-low_level_programming/0x0D-preprocessor/README.md)
-|7. [Variadic Functions](../alx-low_level_programming/0x10-variadic_functions/README.md)|
-|8. [Structures and TypeDef](../alx-low_level_programming/0x0E-structures_typedef/README.md)|
-|9. [File I/O](../alx-low_level_programming/0x15-file_io/README.md)|
+|1. [Malloc](../c-low_level_programming/0x0B-malloc_free/README.md)| 
+|2. [Pointers](../c-low_level_programming/0x05-pointers_arrays_strings/README.md)|
+|3. [Function Pointers](../c-low_level_programming/0x0F-function_pointers/README.md)|
+|4. [Static Libraries](../c-low_level_programming/0x09-static_libraries/README.md)|
+|5. [Command Line Arguments](../c-low_level_programming/0x0A-argc_argv/README.md)|
+|6. [C Preprocessor](../c-low_level_programming/0x0D-preprocessor/README.md)
+|7. [Variadic Functions](../c-low_level_programming/0x10-variadic_functions/README.md)|
+|8. [Structures and TypeDef](../c-low_level_programming/0x0E-structures_typedef/README.md)|
+|9. [File I/O](../c-low_level_programming/0x15-file_io/README.md)|
 ## Betty linter 
 
 Used Betty Linter to check for syntax errors noted indentation resulted in errors - (indentation is not recognized by compiler however indentation is important for readability as well as to comply with ASCI Standards)
