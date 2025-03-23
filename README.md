@@ -3,7 +3,7 @@ C is a general-purpose procedural programming language that provides low-level a
 
 |Table Contents|
 |-----------------------------------------------------------------------------------|
-|1. [Malloc](../c-low_level_programming/0x0B-malloc_free/README.md)| 
+|1. [Malloc](../0x0B-malloc_free/README.md)| 
 |2. [Pointers](../c-low_level_programming/0x05-pointers_arrays_strings/README.md)|
 |3. [Function Pointers](../c-low_level_programming/0x0F-function_pointers/README.md)|
 |4. [Static Libraries](../c-low_level_programming/0x09-static_libraries/README.md)|
